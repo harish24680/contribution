@@ -2,12 +2,12 @@
 
 ## Attendance (list the class periods you attended)
 
-  Date	       Task
-08/19/20 - Started working on RFP
-08/21/20 - Disscussed about requirements
-08/24/20 - Completed proposal draft
-08/26/20 - Updated proposal document
-08/28/20 - Disscussed about comments
+  Date	       Task  
+08/19/20 - Started working on RFP  
+08/21/20 - Disscussed about requirements  
+08/24/20 - Completed proposal draft  
+08/26/20 - Updated proposal document  
+08/28/20 - Disscussed about comments  
 
  ## Half day 1-08/21/20
 
