@@ -11,7 +11,7 @@
 
  ## Half day 1-08/21/20
 
- Accepted invitation and joined in team repo.
+ Accepted invitation and joined in team repo.  
  Joined in zoom metting to dicuss about read for proposal requirements.
 
  ## Half day 2-08/24/20
