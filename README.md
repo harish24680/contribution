@@ -19,7 +19,7 @@
  As per discussion, I have created sample data for database and added to repo:
  https://github.com/Mohanalavala/HealthApp/commit/15691fe10e2d75a00c8cec1e9ac183048bd0819a
 
- Created schedule management and added to repo:
+ Created schedule management excel file and added to repo:
 https://github.com/Mohanalavala/HealthApp/commit/15691fe10e2d75a00c8cec1e9ac183048bd0819a
 
  ## Half day 3-08/26/20
