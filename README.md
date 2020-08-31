@@ -24,12 +24,12 @@ Date    Task
 
  ## Half day 3-08/26/20
 
-Updated User roles and commited to repo:
-https://github.com/Mohanalavala/HealthApp/commit/8c409912fcb1d5f259a4d814a146c4267363149b
+1. Updated User roles and commited to repo:
+* https://github.com/Mohanalavala/HealthApp/commit/8c409912fcb1d5f259a4d814a146c4267363149b
 
-updated proposal document and commited to repo:
-https://github.com/Mohanalavala/HealthApp/commit/d372bbb92fec15c764914056e9f6c243facc3a14
+2. updated proposal document and commited to repo:
+* https://github.com/Mohanalavala/HealthApp/commit/d372bbb92fec15c764914056e9f6c243facc3a14
 
-updated readme.me file as pics not displaying in published site so I have fixed and commited to repo
-https://github.com/Mohanalavala/HealthApp/commit/02123861abfd62ad0efb2b173e9c1d0620c122ec
+3. updated readme.me file as pics not displaying in published site so I have fixed and commited to repo
+* https://github.com/Mohanalavala/HealthApp/commit/02123861abfd62ad0efb2b173e9c1d0620c122ec
 
