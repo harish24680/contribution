@@ -21,7 +21,7 @@ Date    Mode of class
 - https://github.com/annie0sc/gdp_health_app/tree/master/Design%20Architecture 
 3. I have updated readme.md and commited to repo:
 - https://github.com/annie0sc/gdp_health_app/commit/f1660f85a168c2ebad8a03edcbc9e1b6d650222e#diff-0479b1b07e7c75371c3013eaef2c4aef.
-4. I have joined in zoom meeting at 2 PM to discuss about tools, Languages and work plan
+4. I have joined a zoom meeting at 2 PM to discuss about tools, Languages and work plan
 - https://github.com/annie0sc/gdp_health_app/blob/master/Design%20Architecture/Meetings/Architect%20team%20meeting%20for%20work%20planning.PNG
 5. After Discussion, I have update tool and languages in readme.md and commited to repo:
 - https://github.com/annie0sc/gdp_health_app/commit/dde0ca9c7f3bb79bbe0e227003226327272d3e30#diff-0479b1b07e7c75371c3013eaef2c4aef
@@ -29,14 +29,12 @@ Date    Mode of class
 
  ## Half day 3
  Time allocated : 4 hours = 1 hour in class + 3 hours out of the class = Worth 300 points   
-
-1. I have attended zoom meeting at 3 PM to discuss about work plan
+1. I have attended zoom session with Dr. Badami to discuss about queries and work plan.
+2. I have joined a zoom meeting at 3 PM to finalize the technologies
 - https://github.com/annie0sc/gdp_health_app/blob/master/Design%20Architecture/Meetings/Team%20meeting.png
+3.  I have joined in a zoom meeting at 6:50 PM with sprint team to discuss about user stories and tasks.
+- https://github.com/annie0sc/gdp_health_app/blob/master/Design%20Architecture/Meetings/Meeting%20with%20sprint%20planning%20team.PNG
+4. After Discussion, Scrum team assigned task to me
 
-2. updated proposal document and commited to repo:
-* https://github.com/Mohanalavala/HealthApp/commit/d372bbb92fec15c764914056e9f6c243facc3a14
-
-3. updated readme.me file as pics not displaying in published site so I have fixed and commited to repo
-* https://github.com/Mohanalavala/HealthApp/commit/02123861abfd62ad0efb2b173e9c1d0620c122ec
 
 
