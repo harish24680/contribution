@@ -1,20 +1,23 @@
 Harish Thadka- section 01- Dr. Badami  
 Group A: Design Architecture
-# Module 2: Individual 1
+# Module 2: Individual 2
 
 ## Attendance (list the class periods you attended)
 
 Date    Mode of class  
-09/07/2020 Paid Leave  
-09/09/2020 In-Person  
-09/11/2020 Zoom Session
+09/14/2020 In-Person  
+09/16/2020  
+09/18/2020 
 
-## Meetings & Discussions Link:
+## Meetings&Discussions Link:
 - https://github.com/annie0sc/gdp_health_app/blob/master/Design%20Architecture/meeting.md
 
  ## Half day 1
-
-- Paid Leave
+**Time allocated : 4 hours = 1 hour in class + 3 hours out of the class = Worth 300 points**
+1. On Monday, I have attended the class and discussed with professor about tool and technologies. And professor clarified my queries.
+2. Later, I have scheduled a zoom meeting at 4 PM. We discussed about class notes and also about testing tools and frameworks.
+3. After discussion, I have updated readme file with testing tools and technologies.
+4. Later, We conducted a zoom meeting with Sprint plannig.
 
  ## Half day 2
  Time allocated : 4 hours = 1 hour in class + 3 hours out of the class = Worth 300 points  
