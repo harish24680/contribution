@@ -15,9 +15,10 @@ Date    Mode of class
  ## Half day 1
 **Time allocated : 4 hours = 1 hour in class + 3 hours out of the class = Worth 300 points**
 1. On Monday, I have attended the class and discussed with professor about tool and technologies. And professor clarified my queries.
-2. Later, I have scheduled a zoom meeting at 4 PM. We discussed about class notes and also about testing tools and frameworks.
-3. After discussion, I have updated readme file with testing tools and technologies.
-4. Later, We conducted a zoom meeting with Sprint plannig.
+1. Later, I have scheduled a zoom meeting at 4 PM. We discussed about class notes and also about testing tools and frameworks.
+1. Also updated meetings in readme.md file
+1. After discussion, I have updated readme file with testing tools and technologies.
+1. Later, We conducted a zoom meeting with Sprint plannig.
 
  ## Half day 2
  Time allocated : 4 hours = 1 hour in class + 3 hours out of the class = Worth 300 points  
