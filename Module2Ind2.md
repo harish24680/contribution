@@ -6,8 +6,8 @@ Group A: Design Architecture
 
 Date    Mode of class  
 09/14/2020 In-Person  
-09/16/2020  
-09/18/2020 
+09/16/2020 Taks
+09/18/2020 Zoom Session
 
 ## Meetings&Discussions Link:
 - https://github.com/annie0sc/gdp_health_app/blob/master/Design%20Architecture/meeting.md
@@ -27,8 +27,9 @@ Date    Mode of class
 1. Later, I have attended a zoom meeting with Sprint plannig.
 
  ## Half day 2
- Time allocated : 4 hours = 1 hour in class + 3 hours out of the class = Worth 300 points  
- 1. On Wednesday,  I have joined in Zoom meeting at 10 PM and we have discussed about the backend languages and develop tools. Also, discussed about roles and responsibilities of every team member. 
+ **Time allocated : 4 hours out of the class = Worth 300 points**  
+ 1. On Wednesday, I have searched some of testing tools and updated in repo:
+ - https://github.com/annie0sc/gdp_health_app/commit/9e57c627dd921707dc8b0106bf2f4cec749822df#diff-49ddf3459923b8ecce20e1c35b239d72
  2. I have accepted the invitation and joined in central repo of team project.
 - https://github.com/annie0sc/gdp_health_app/tree/master/Design%20Architecture 
 3. I have updated readme.md and commited to repo:
