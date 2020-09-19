@@ -17,7 +17,8 @@ Date    Mode of class
 1. On Monday, I have attended the class and discussed with professor about tool and technologies and posted same discussion in section 1 module 2 week reports.
 - https://nwmissouri.instructure.com/groups/26464/discussion_topics/217613
 2. Later, I have scheduled a zoom meeting at 4 PM. We discussed about class notes and also about testing tools and technologis.
-- https://github.com/annie0sc/gdp_health_app/blob/master/design-architecture/Meetings/Team%20meeting%20sep14.png
+- Image Link: https://github.com/annie0sc/gdp_health_app/blob/master/design-architecture/Meetings/Team%20meeting%20sep14.png
+- Discussion Link:  https://github.com/annie0sc/gdp_health_app/blob/master/design-architecture/meeting.md
 3. Also updated meetings in readme.md file
 - https://github.com/annie0sc/gdp_health_app/commit/6587c40cf679ec62725552422122f85e85ca2c41
 - https://github.com/annie0sc/gdp_health_app/commit/4d95b8308b7e8403edda51768b4b045facd8f503
