@@ -16,7 +16,7 @@ Date    Mode of class
 **Time allocated : 4 hours = 1 hour in class + 3 hours out of the class = Worth 300 points**
 1. On Monday, I have attended the class and discussed with professor about tool and technologies and posted same discussion in section 1 module 2 week reports.
 - https://nwmissouri.instructure.com/groups/26464/discussion_topics/217613
-2. Later, I have scheduled a zoom meeting at 4 PM. We discussed about class notes and also about testing tools and technologis.
+2. Later, I have scheduled a zoom meeting with my team at 4 PM. We discussed about class notes and also about testing tools and technologies.
 - Image Link: https://github.com/annie0sc/gdp_health_app/blob/master/design-architecture/Meetings/Team%20meeting%20sep14.png
 - Discussion Link:  https://github.com/annie0sc/gdp_health_app/blob/master/design-architecture/meeting.md
 3. Also updated meetings in readme.md file
