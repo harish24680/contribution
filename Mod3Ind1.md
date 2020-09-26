@@ -15,12 +15,12 @@ Date    Mode of class
  ## Half day 1
 **Time allocated : 4 hours = 1 hour in class + 3 hours out of the class = Worth 300 points**
 1. On Monday, I have attended the class and discussed with professor about this week tasks.
-2. Later, we conducted team meeting to discuss and start to work on demo app.
+2. Later, we conducted team meeting to discuss about start to work on demo app.
 - Image Link: https://github.com/annie0sc/gdp-happy-health/blob/master/design-architecture/Meetings/Architecture%20Meeting%20Sep21.png
 - Discussion Link:  https://github.com/annie0sc/gdp_health_app/blob/master/design-architecture/meeting.md
 3. After discussion, we have installed requrired(models,views,controllers,app.js etc) folders for express app in node js environment to build a demo app.
 - https://github.com/harishThadka/happyHealth
-- commit of one file: https://github.com/harishThadka/happyHealth/blob/master/.gitignore
+- Example commit of one file: https://github.com/harishThadka/happyHealth/blob/master/.gitignore
 4. Later, We have created account in heroku and deployed a demo app in heroku
 - https://github.com/annie0sc/gdp-happy-health/blob/master/design-architecture/HappyHealthApplication/DemoApplication.jpeg
 - (Present updated with sign up page) - https://happy-health-demo.herokuapp.com/
