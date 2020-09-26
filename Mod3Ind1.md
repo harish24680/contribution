@@ -29,11 +29,11 @@ Date    Mode of class
 
  ## Half day 2
  **Time allocated : 4 hours = 1 hour in class + 3 hours out of the class = Worth 300 points** 
- 1. On wednesday, attended a zoom meeting with professor Dr. Badami to discussa about status of app.
+ 1. On wednesday, attended a zoom meeting with professor Dr. Badami to discuss about status of app.
  2. We have scheduled a zoom meeting with Design UI team to discuss about user sign up, user login and admin login pages.
  - Image Link: https://github.com/annie0sc/gdp-happy-health/blob/master/design-architecture/Meetings/UI%20Team%20Meeting%20sep23.png
   - Discussion Link: https://github.com/annie0sc/gdp_health_app/blob/master/design-architecture/meeting.md
- 3. As per discussion in meeting, I have started working on user sign up page
+ 3. As per discussion with UI team, I have started working on user sign up page
  - https://github.com/harishThadka/happyHealth/commit/42a476130518ac295a7538ca2aaa44cfc2d450c9
  - https://github.com/harishThadka/happyHealth/commit/315e340a7a148c030f9544324114b411fad68008
  4. Finally, deployed user sign up app in heroku
@@ -44,7 +44,7 @@ Date    Mode of class
 1. We have scheduled a zoom meeting with Design data team to discuss about database language and cloud databases such as google cloud, oracle cloud
 - Image Link: https://github.com/annie0sc/gdp-happy-health/blob/master/design-architecture/Meetings/Meeting%20with%20Data%20Team%20sep%2024.jpeg
 - Discussion Link:  https://github.com/annie0sc/gdp_health_app/blob/master/design-architecture/meeting.md
-2. As per discussion with Design team, we came up with google cloud database which needs to be work on my sql database
+2. As per discussion with Design team, we came up with google cloud database which works for mysql database
 3. Later, we have created account in google cloud database and also created project in it.
 4. Started to work on database connection and still going on...
 - https://github.com/harishThadka/happyHealth/commit/56d31cd13df390f576ab26f5f080d92eddbaaec3
