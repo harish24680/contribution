@@ -41,7 +41,7 @@ Date    Mode of class
  
  ## Half day 3
  **Time allocated : 4 hours = 1 hour in class + 3 hours out of the class = Worth 300 points**   
-1. On friday, I have attended zoom meeting with professor Dr. Badami to discuss about tasks.
+1. On friday, I have attended zoom meeting with professor Dr. Badami to discuss about jira tasks.
 2. We have scheduled a zoom meeting with Design data team to discuss about database language and cloud databases such as google cloud, oracle cloud
 - Image Link: https://github.com/annie0sc/gdp-happy-health/blob/master/design-architecture/Meetings/Meeting%20with%20Data%20Team%20sep%2024.jpeg
 - Discussion Link:  https://github.com/annie0sc/gdp_health_app/blob/master/design-architecture/meeting.md
