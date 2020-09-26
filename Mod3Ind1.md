@@ -41,14 +41,15 @@ Date    Mode of class
  
  ## Half day 3
  **Time allocated : 4 hours = 1 hour in class + 3 hours out of the class = Worth 300 points**   
-1. We have scheduled a zoom meeting with Design data team to discuss about database language and cloud databases such as google cloud, oracle cloud
+1. On friday, I have attended zoom meeting with professor Dr. Badami to discuss about tasks.
+2. We have scheduled a zoom meeting with Design data team to discuss about database language and cloud databases such as google cloud, oracle cloud
 - Image Link: https://github.com/annie0sc/gdp-happy-health/blob/master/design-architecture/Meetings/Meeting%20with%20Data%20Team%20sep%2024.jpeg
 - Discussion Link:  https://github.com/annie0sc/gdp_health_app/blob/master/design-architecture/meeting.md
-2. As per discussion with Design team, we came up with google cloud database which works for mysql database
-3. Later, we have created account in google cloud database and also created project in it.
-4. Started to work on database connection and still going on...
+3. As per discussion with Design team, we came up with google cloud database which works for mysql database
+4. Later, we have created account in google cloud database and also created project in it.
+5. Started to work on database connection and still going on...
 - https://github.com/harishThadka/happyHealth/commit/56d31cd13df390f576ab26f5f080d92eddbaaec3
-5. Finally, we have team meeting with scrum team to discuss about backlog tasks.
+6. Finally, we have team meeting with scrum team to discuss about backlog tasks.
 - Image Link: https://github.com/annie0sc/gdp-happy-health/blob/master/design-architecture/Meetings/Sprinteam%20meeting%20sep25.PNG
 - Discussion Link:  https://github.com/annie0sc/gdp_health_app/blob/master/design-architecture/meeting.md
 
