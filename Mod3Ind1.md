@@ -1,6 +1,6 @@
 Harish Thadka- section 01- Dr. Badami  
 Group A: Design Architecture
-# Module 2: Individual 1
+# Module 3: Individual 1
 
 ## Attendance (list the class periods you attended)
 
