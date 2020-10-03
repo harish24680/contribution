@@ -16,7 +16,7 @@ Date    Mode of class
 **Time allocated : 4 hours = 1 hour in class + 3 hours out of the class = Worth 300 points**
 1. On Monday, I have attended the class and discussed with professor about this week tasks.
 2. As per discussed with professor, we conducted team meeting to discuss about this week plans and start to work on app.
-- Image Link: 
+- Image Link: https://github.com/annie0sc/gdp-happy-health/blob/master/design-architecture/Meetings/TeamMeeting%20sep%2028th.jpeg
 - Discussion Link:  https://github.com/annie0sc/gdp_health_app/blob/master/design-architecture/meeting.md
 3. After discussion, I have added user login page in repo which got from UI team.
 - https://github.com/harishThadka/happyHealth/commit/b14ea1213237daeda6ae0c612b51aa09d7155f19
@@ -29,13 +29,16 @@ Date    Mode of class
  ## Half day 2
  **Time allocated : 4 hours = 1 hour in class + 3 hours out of the class = Worth 300 points** 
  1. On wednesday, attended a zoom meeting with professor Dr. Badami to discuss about database connection issues facing in heroku.
- 2. As per discussed, We decided to deploy app in google cloud instead of heroku as heroku doesn't provide free database connection so created app engine in google cloud.
+ 2. I have attended zoom meeting and discussed about database connection issues.
+ - Image Link: https://github.com/annie0sc/gdp-happy-health/blob/master/design-architecture/Meetings/Team%20meeting%20September30.PNG
+ - Discussion Link:  https://github.com/annie0sc/gdp_health_app/blob/master/design-architecture/meeting.md
+ 3. As per discussed, We decided to deploy app in google cloud instead of heroku as heroku doesn't provide free database connection so created app engine in google cloud.
  - photo
- 3. Later, Two issues was raised by design UI team and assigned to me. I have fixed issues and deployed the app.
+ 4. Later, Two issues was raised by design UI team and assigned to me. I have fixed issues and deployed the app.
  - https://github.com/harishThadka/happyHealth/issues?q=is%3Aissue+is%3Aclosed
- 4. I have created app.yaml file which is required to host the app in google cloud.
+ 5. I have created app.yaml file which is required to host the app in google cloud.
  - https://github.com/harishThadka/happyHealth/commit/b60a6df4163869f1dbfe5e8ac6160bb4aeceacdf
- 5. Finally, I have worked in database connection for 2 hours then I was suceess in connecting database locally and also in google cloud
+ 6. Finally, I have worked in database connection for 2 hours then I was suceess in connecting database locally and also in google cloud
  - https://github.com/harishThadka/happyHealth/commit/8c99c2e8c4a2609e0102493003f6a614f003cbdb
  
  ## Half day 3
