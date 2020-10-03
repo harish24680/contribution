@@ -48,5 +48,5 @@ Date    Mode of class
 - https://github.com/harishThadka/happyHealth/commit/186f0a1074518eb1bdcb9e6fb3e5c6cbd7f7523f
 4. I have updated login page in routes and added in views
 - https://github.com/harishThadka/happyHealth/commit/577e4d783b84865027940cd055d77fea1b8000bb
-5. Finally, working on sign up page validation check
+5. Finally, working on sign up page validation check. And, weekend needs to work on user story- validating username and password from database when logging
 
