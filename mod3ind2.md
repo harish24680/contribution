@@ -45,5 +45,8 @@ Date    Mode of class
 - https://github.com/harishThadka/happyHealth/commit/9540e35d692ca9f3b756f205aef2ecd3493f095e
 3. As per discussion with professor, I have added login check validation code in repo and deployed the app.
 - https://github.com/harishThadka/happyHealth/commit/2f1b42d6cff40e97a462ebb702eb6fa1ac5fbe9e
-4. 
+- https://github.com/harishThadka/happyHealth/commit/186f0a1074518eb1bdcb9e6fb3e5c6cbd7f7523f
+4. I have updated login page in routes and added in views
+- https://github.com/harishThadka/happyHealth/commit/577e4d783b84865027940cd055d77fea1b8000bb
+5. Finally, working on sign up page validation check
 
