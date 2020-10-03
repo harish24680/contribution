@@ -23,7 +23,7 @@ Date    Mode of class
 4. Later, I have fixed some of issues in app and added views and routes in repo
 - https://github.com/harishThadka/happyHealth/commit/baff2b2494c94439df4d24be169da7496d5b31e1
 - https://github.com/harishThadka/happyHealth/commit/ef3e65e974c4667b405475f89963e492c4dc2db2
-5. Finally, started work on database connection:
+5. Finally, started working on database connection:
 - https://github.com/harishThadka/happyHealth/commit/feca01771567f219550d6e8ac5c6c00f29623b64
 
  ## Half day 2
