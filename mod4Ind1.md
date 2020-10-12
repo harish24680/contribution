@@ -5,26 +5,28 @@ Group A: Design Architecture
 ## Attendance (list the class periods you attended)
 
 Date    Mode of class  
-09/28/2020 Zoom Session    
-09/30/2020 Zoom Session  
-10/02/2020 Zoom Session  
+10/05/2020 Zoom Session    
+10/07/2020 Zoom Session  
+10/09/2020 Walkout day 
 
 ## Meetings&Discussions Link:
 - https://github.com/annie0sc/gdp_health_app/blob/master/Design%20Architecture/meeting.md
 
  ## Half day 1
 **Time allocated : 4 hours = 1 hour in class + 3 hours out of the class = Worth 300 points**
-1. On Monday, I have attended the class and discussed with professor about this week tasks.
-2. As per discussed with professor, we conducted team meeting to discuss about this week plans and start to work on app.
-- Image Link: https://github.com/annie0sc/gdp-happy-health/blob/master/design-architecture/Meetings/TeamMeeting%20sep%2028th.jpeg
+1. we conducted meeting with other team leaders to discuss about client presentation and issues in app.
+- Image Link:
 - Discussion Link:  https://github.com/annie0sc/gdp_health_app/blob/master/design-architecture/meeting.md
-3. After discussion, I have added user login page in repo which got from UI team.
-- https://github.com/harishThadka/happyHealth/commit/b14ea1213237daeda6ae0c612b51aa09d7155f19
-4. Later, I have fixed some of issues in app and added views and routes in repo
-- https://github.com/harishThadka/happyHealth/commit/baff2b2494c94439df4d24be169da7496d5b31e1
-- https://github.com/harishThadka/happyHealth/commit/ef3e65e974c4667b405475f89963e492c4dc2db2
-5. Finally, started working on database connection:
-- https://github.com/harishThadka/happyHealth/commit/feca01771567f219550d6e8ac5c6c00f29623b64
+2. As per discussed with other team leaders, I have started working on app. Added admin and user home page which I got from UI team.
+- https://github.com/harishThadka/happyHealth/commit/1953e82c678375e9c01ebe08b91ca753bcdd7b93
+- https://github.com/harishThadka/happyHealth/commit/ee72cdc19981f81c23a4933268ebc1b5835db85a
+3. I haved added forgot password routes for user and admin pages.
+- https://github.com/harishThadka/happyHealth/commit/d67c4bf90729ae2b2e56ef689814401b1ce976b9
+4. Later, I have fixed some of issues in the app and commited to repo.
+- https://github.com/harishThadka/happyHealth/commit/bf3f0790086e89198f344a193b29d10ec4d9a93a
+- https://github.com/harishThadka/happyHealth/commit/b63e3cab793644854a228e62b0ed17029f5a949f
+5. Finally, I have found the issue in sign up and admin UI pages i.e; Pages are not responsive web design so I have raised to UI team:
+- https://github.com/harishThadka/happyHealth/issues/3
 
  ## Half day 2
  **Time allocated : 4 hours = 1 hour in class + 3 hours out of the class = Worth 300 points** 
