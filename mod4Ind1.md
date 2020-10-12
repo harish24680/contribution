@@ -37,7 +37,7 @@ Date    Mode of class
  - https://github.com/harishThadka/happyHealth/commit/9b3021cf29d3e2779643365dee5e4d20d20e19c9
  4. I have fixed some of issues in the pages:
 - https://github.com/harishThadka/happyHealth/commit/b1000ddd0302513e68346af01d498f922bb726bf
-5. Deployed the latest app in google cloud:
+5. Finally, Deployed the latest app in google cloud:
 -  Image
 
 
