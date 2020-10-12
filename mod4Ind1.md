@@ -22,7 +22,9 @@ Date    Mode of class
 - https://github.com/harishThadka/happyHealth/commit/ee72cdc19981f81c23a4933268ebc1b5835db85a
 3. I haved added forgot password routes for user and admin pages.
 - https://github.com/harishThadka/happyHealth/commit/d67c4bf90729ae2b2e56ef689814401b1ce976b9
-4. Later, I have fixed some of issues in the app and commited to repo.
+4. Later, I have fixed some of issues in the app  which were assigned by Sprint team and commited to repo.
+- Jira link: http://cs04.nwmissouri.edu/browse/FIT-254
+- Jira link: http://cs04.nwmissouri.edu/browse/FIT-253
 - https://github.com/harishThadka/happyHealth/commit/bf3f0790086e89198f344a193b29d10ec4d9a93a
 - https://github.com/harishThadka/happyHealth/commit/b63e3cab793644854a228e62b0ed17029f5a949f
 5. Finally, I have found the issue in sign up and admin UI pages i.e; Pages are not responsive web design so I have raised to UI team:
