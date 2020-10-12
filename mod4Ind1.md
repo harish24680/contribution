@@ -15,7 +15,7 @@ Date    Mode of class
  ## Half day 1
 **Time allocated : 4 hours = 1 hour in class + 3 hours out of the class = Worth 300 points**
 1. we conducted meeting with other team leaders to discuss about client presentation and issues in app.
-- Image Link:
+- Image Link: https://github.com/annie0sc/gdp-happy-health/blob/master/design-architecture/Meetings/ProjectMeetingoct5th.png
 - Discussion Link:  https://github.com/annie0sc/gdp_health_app/blob/master/design-architecture/meeting.md
 2. As per discussed with other team leaders, I have started working on app. Added admin and user home page which I got from UI team.
 - https://github.com/harishThadka/happyHealth/commit/1953e82c678375e9c01ebe08b91ca753bcdd7b93
@@ -30,17 +30,14 @@ Date    Mode of class
 
  ## Half day 2
  **Time allocated : 4 hours = 1 hour in class + 3 hours out of the class = Worth 300 points** 
- 1. On wednesday, attended a zoom meeting with professor Dr. Badami to discuss about database connection issues facing in heroku.
- 2. I have attended zoom meeting and discussed about database connection issues.
- - Image Link: https://github.com/annie0sc/gdp-happy-health/blob/master/design-architecture/Meetings/Team%20meeting%20September30.PNG
- - Discussion Link:  https://github.com/annie0sc/gdp_health_app/blob/master/design-architecture/meeting.md
- 3. As per discussed, We decided to deploy app in google cloud instead of heroku as heroku doesn't provide free database connection so created app engine in google cloud.
- - photo
- 4. Later, Two issues was raised by design UI team and assigned to me. I have fixed issues and deployed the app.
- - https://github.com/harishThadka/happyHealth/issues?q=is%3Aissue+is%3Aclosed
- 5. I have created app.yaml file which is required to host the app in google cloud.
- - https://github.com/harishThadka/happyHealth/commit/b60a6df4163869f1dbfe5e8ac6160bb4aeceacdf
- 6. Finally, I have worked in database connection for 2 hours then I was suceess in connecting database locally and also in google cloud
- - https://github.com/harishThadka/happyHealth/commit/8c99c2e8c4a2609e0102493003f6a614f003cbdb
+ 1. On wednesday, attended a zoom meeting with professor Dr. Badami to discuss about app status.
+ 2. After discussion, I have changed user login page with username instead of email.
+- https://github.com/harishThadka/happyHealth/commit/307593a934788d702ca22377e394c49003cac3ce
+ 3. Later, Added username and email id validation in user sign up page
+ - https://github.com/harishThadka/happyHealth/commit/9b3021cf29d3e2779643365dee5e4d20d20e19c9
+ 4. I have fixed some of issues in the pages:
+- https://github.com/harishThadka/happyHealth/commit/b1000ddd0302513e68346af01d498f922bb726bf
+5. Deployed the latest app in google cloud:
+-  Image
 
 
