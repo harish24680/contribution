@@ -20,13 +20,8 @@ Date    Mode of class
 - https://github.com/harishThadka/happyHealth/commit/1dc5c4c33450352b8cbc5951dcb581bb248caf13
 3. As per client feedback, modified in sign up page
 - https://github.com/harishThadka/happyHealth/commit/8e4537a02da749b2e6bb3ee2b6e2631c6c190ff0
-4. Later, I have fixed some of issues in the app  which were assigned by Sprint team and commited to repo.
-- Jira link: http://cs04.nwmissouri.edu/browse/FIT-254
-- Jira link: http://cs04.nwmissouri.edu/browse/FIT-253
-- https://github.com/harishThadka/happyHealth/commit/bf3f0790086e89198f344a193b29d10ec4d9a93a
-- https://github.com/harishThadka/happyHealth/commit/b63e3cab793644854a228e62b0ed17029f5a949f
-5. Finally, I have found the issue in sign up and admin UI pages i.e; Pages are not responsive web design so I have raised to UI team:
-- https://github.com/harishThadka/happyHealth/issues/3
+4. Finally, Ihave deployed the app in google cloud
+- Image
 
  ## Half day 2
  **Time allocated : 4 hours = 1 hour in class + 3 hours out of the class = Worth 300 points** 
