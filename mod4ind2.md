@@ -15,14 +15,11 @@ Date    Mode of class
  ## Half day 1
 **Time allocated : 4 hours = 1 hour in class + 3 hours out of the class = Worth 300 points**
 1. On Monday, attended zoom meeting with professor Dr. Badami to discuss about client review on app
-2. After discussion, as per client feedback, I have worked on app
-- Image Link: https://github.com/annie0sc/gdp-happy-health/blob/master/design-architecture/Meetings/ProjectMeetingoct5th.png
-- Discussion Link:  https://github.com/annie0sc/gdp_health_app/blob/master/design-architecture/meeting.md
-2. As per discussed with other team leaders, I have started working on app. Added admin and user home page which I got from UI team.
-- https://github.com/harishThadka/happyHealth/commit/1953e82c678375e9c01ebe08b91ca753bcdd7b93
-- https://github.com/harishThadka/happyHealth/commit/ee72cdc19981f81c23a4933268ebc1b5835db85a
-3. I haved added forgot password routes for user and admin pages.
-- https://github.com/harishThadka/happyHealth/commit/d67c4bf90729ae2b2e56ef689814401b1ce976b9
+2. After discussion, as per client feedback, I have started working on app modifications
+3. As per client feedback, I have changed naming of admin to administrator
+- https://github.com/harishThadka/happyHealth/commit/1dc5c4c33450352b8cbc5951dcb581bb248caf13
+3. As per client feedback, modified in sign up page
+- https://github.com/harishThadka/happyHealth/commit/8e4537a02da749b2e6bb3ee2b6e2631c6c190ff0
 4. Later, I have fixed some of issues in the app  which were assigned by Sprint team and commited to repo.
 - Jira link: http://cs04.nwmissouri.edu/browse/FIT-254
 - Jira link: http://cs04.nwmissouri.edu/browse/FIT-253
