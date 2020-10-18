@@ -25,8 +25,8 @@ Date    Mode of class
 
  ## Half day 2
  **Time allocated : 4 hours = 1 hour in class + 3 hours out of the class = Worth 300 points** 
- 1. On wednesday, attended a zoom meeting with professor Dr. Badami to discuss about app status.
- 2. After discussion, I have changed user login page with username instead of email.
+ 1. On wednesday, attended a zoom meeting with professor Dr. Badami to discuss about app modifications.
+ 2. As per discussed with professor,
 - https://github.com/harishThadka/happyHealth/commit/307593a934788d702ca22377e394c49003cac3ce
  3. Later, Added username and email id validation in user sign up page
  - https://github.com/harishThadka/happyHealth/commit/9b3021cf29d3e2779643365dee5e4d20d20e19c9
