@@ -31,14 +31,15 @@ Date    Mode of class
  3. I have scheduled zoom meeting with Design data team to discuss about models and controllers.  
  - Topic Discussion: Importing sampled data and tables to cloud database, Creating models for entities
  - Image Link: https://github.com/annie0sc/gdp-happy-health/blob/master/design-architecture/Meetings/meetingDataTeam.jpeg
- 4. As per discused, I have did some research on creating controllers then started working on controllers.
- - Watched this video: https://www.youtube.com/watch?v=dDjzTDN3cy8&ab_channel=HamzaMirza
+ 4. As per discused, I have done some research on creating controllers then started working on controllers.
+ - https://www.sitepoint.com/node-js-mvc-application/
+ - https://www.c-sharpcorner.com/blogs/how-to-setup-mvc-design-pattern-in-express
  
  ## Half day 3
  **Time allocated : 4 hours = 1 hour in class + 3 hours out of the class = Worth 300 points**   
-1. I have created user login controllers in controllers folder and commited to repo
+1. I have created user login controllers in controllers folder and committed to repo
 - https://github.com/harishThadka/happyHealth/commit/9c6df03a65225f1138cfc36190132aa7682d4470
-2. Later, created user sign up and admin login controllers and commited to repo
+2. Later, created user sign up and admin login controllers and committed to repo
 - https://github.com/harishThadka/happyHealth/commit/b43017af47fb4b8ced1668351d01bfa96529169c
 - https://github.com/harishThadka/happyHealth/commit/3e4c159c715f014cb8cbede8a34d58c8226d4a77
 3. Also, created controllers for forgot password and validation pages.
