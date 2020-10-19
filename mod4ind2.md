@@ -15,21 +15,22 @@ Date    Mode of class
  ## Half day 1
 **Time allocated : 4 hours = 1 hour in class + 3 hours out of the class = Worth 300 points**
 1. On Monday, attended zoom meeting with professor Dr. Badami to discuss about client review on app
-2. After discussion, as per client feedback, I have started working on app modifications
+2. After discussion, as per client feedback, I have started working on app modifications  
 3. As per client feedback, I have changed naming of admin to administrator
 - https://github.com/harishThadka/happyHealth/commit/1dc5c4c33450352b8cbc5951dcb581bb248caf13
-3. As per client feedback, modified in sign up page
+4. As per client feedback, modified in sign up page
 - https://github.com/harishThadka/happyHealth/commit/8e4537a02da749b2e6bb3ee2b6e2631c6c190ff0
-4. Finally, Ihave deployed the app in google cloud
+5. Finally, I have deployed the app in google cloud
 - Image
 
  ## Half day 2
  **Time allocated : 4 hours = 1 hour in class + 3 hours out of the class = Worth 300 points** 
  1. On wednesday, attended a zoom meeting with professor Dr. Badami to discuss about app modifications.
- 2. As per discussed with professor,
-- https://github.com/harishThadka/happyHealth/commit/307593a934788d702ca22377e394c49003cac3ce
- 3. Later, Added username and email id validation in user sign up page
- - https://github.com/harishThadka/happyHealth/commit/9b3021cf29d3e2779643365dee5e4d20d20e19c9
+ 2. As per discussion with professor, I have modified sign up page
+- https://github.com/harishThadka/happyHealth/commit/38078d253cfb1a4f37f540d36434a3d4fb13ae37
+ 3. I have scheduled zoom meeting with Design data team to discuss about models and controllers
+ - Disscusiion
+ - Image Link: 
  4. I have fixed some of issues in the pages:
 - https://github.com/harishThadka/happyHealth/commit/b1000ddd0302513e68346af01d498f922bb726bf
 5. Finally, Deployed the latest app in google cloud:
