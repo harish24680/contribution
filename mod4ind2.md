@@ -20,8 +20,8 @@ Date    Mode of class
 - https://github.com/harishThadka/happyHealth/commit/1dc5c4c33450352b8cbc5951dcb581bb248caf13
 4. As per client feedback, modified in sign up page
 - https://github.com/harishThadka/happyHealth/commit/8e4537a02da749b2e6bb3ee2b6e2631c6c190ff0
-5. Finally, I have deployed the app in google cloud
-- 
+5. Finally, I have deployed the app in google cloud  
+Image  
 
  ## Half day 2
  **Time allocated : 4 hours = 1 hour in class + 3 hours out of the class = Worth 300 points** 
