@@ -29,8 +29,8 @@ Date    Mode of class
  2. As per discussion with professor, I have modified sign up page
 - https://github.com/harishThadka/happyHealth/commit/38078d253cfb1a4f37f540d36434a3d4fb13ae37
  3. I have scheduled zoom meeting with Design data team to discuss about models and controllers.  
- - Disscusion: 
- - Image Link: 
+ - Topic Discussion: Importing sampled data and tables to cloud database, Creating models for entities
+ - Image Link: https://github.com/annie0sc/gdp-happy-health/blob/master/design-architecture/Meetings/meetingDataTeam.jpeg
  4. As per discused, I have did some research on creating controllers then started working on controllers.
  - Watched this video: https://www.youtube.com/watch?v=dDjzTDN3cy8&ab_channel=HamzaMirza
  
