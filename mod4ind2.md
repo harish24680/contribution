@@ -28,23 +28,17 @@ Date    Mode of class
  1. On wednesday, attended a zoom meeting with professor Dr. Badami to discuss about app modifications.
  2. As per discussion with professor, I have modified sign up page
 - https://github.com/harishThadka/happyHealth/commit/38078d253cfb1a4f37f540d36434a3d4fb13ae37
- 3. I have scheduled zoom meeting with Design data team to discuss about models and controllers
- - Disscusiion
+ 3. I have scheduled zoom meeting with Design data team to discuss about models and controllers.  
+ - Disscusion: 
  - Image Link: 
- 4. I have fixed some of issues in the pages:
-- https://github.com/harishThadka/happyHealth/commit/b1000ddd0302513e68346af01d498f922bb726bf
-5. Finally, Deployed the latest app in google cloud:
--  Image
-
+ 4. As per discused, I have did some research on creating controllers then started working on controllers.
  ## Half day 3
  **Time allocated : 4 hours = 1 hour in class + 3 hours out of the class = Worth 300 points**   
-1. On friday, I have attended zoom meeting with professor Dr. Badami and I have presented about database connection locally.
-2. I have updated new host app link in repo:
-- https://github.com/harishThadka/happyHealth/commit/9540e35d692ca9f3b756f205aef2ecd3493f095e
-3. As per discussion with professor, I have added login check validation code in repo and deployed the app.
-- https://github.com/harishThadka/happyHealth/commit/2f1b42d6cff40e97a462ebb702eb6fa1ac5fbe9e
-- https://github.com/harishThadka/happyHealth/commit/186f0a1074518eb1bdcb9e6fb3e5c6cbd7f7523f
-4. I have updated login page in routes and added in views
-- https://github.com/harishThadka/happyHealth/commit/577e4d783b84865027940cd055d77fea1b8000bb
-5. Finally, working on sign up page validation check. And, weekend needs to work on user story- validating username and password from database when logging
+1. On friday, I have added attend class in zoom
+2. I have created user login controllers in controllers folder and commited to repo
+- https://github.com/harishThadka/happyHealth/commit/9c6df03a65225f1138cfc36190132aa7682d4470
+3. Later, created user sign up and admin login controllers and commited to repo
+- https://github.com/harishThadka/happyHealth/commit/b43017af47fb4b8ced1668351d01bfa96529169c
+- https://github.com/harishThadka/happyHealth/commit/3e4c159c715f014cb8cbede8a34d58c8226d4a77
+4. Also, created controllers for forgo
 
