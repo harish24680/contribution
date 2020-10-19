@@ -21,7 +21,7 @@ Date    Mode of class
 4. As per client feedback, modified in sign up page
 - https://github.com/harishThadka/happyHealth/commit/8e4537a02da749b2e6bb3ee2b6e2631c6c190ff0
 5. Finally, I have deployed the app in google cloud
-- Image
+- 
 
  ## Half day 2
  **Time allocated : 4 hours = 1 hour in class + 3 hours out of the class = Worth 300 points** 
@@ -33,6 +33,7 @@ Date    Mode of class
  - Image Link: 
  4. As per discused, I have did some research on creating controllers then started working on controllers.
  - Watched this video: https://www.youtube.com/watch?v=dDjzTDN3cy8&ab_channel=HamzaMirza
+ 
  ## Half day 3
  **Time allocated : 4 hours = 1 hour in class + 3 hours out of the class = Worth 300 points**   
 1. I have created user login controllers in controllers folder and commited to repo
