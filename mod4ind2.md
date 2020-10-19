@@ -32,6 +32,7 @@ Date    Mode of class
  - Disscusion: 
  - Image Link: 
  4. As per discused, I have did some research on creating controllers then started working on controllers.
+ - Watched this video: https://www.youtube.com/watch?v=dDjzTDN3cy8&ab_channel=HamzaMirza
  ## Half day 3
  **Time allocated : 4 hours = 1 hour in class + 3 hours out of the class = Worth 300 points**   
 1. I have created user login controllers in controllers folder and commited to repo
@@ -44,4 +45,4 @@ Date    Mode of class
 4. There was unnecessary dependencis in repo so I have fixed and commited to repo
 - https://github.com/harishThadka/happyHealth/commit/380967eee43258a1e8befbf0966aeb4170fb6b57
 5. Before deployment I have fixed an issue and deployed in google cloud
-- - https://github.com/harishThadka/happyHealth/commit/6a201119c9a576be481e702905156965f3a8acd15
+- https://github.com/harishThadka/happyHealth/commit/6a201119c9a576be481e702905156965f3a8acd15
