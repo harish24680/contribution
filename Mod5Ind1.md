@@ -30,14 +30,16 @@ Date    Mode of class
 
  ## Half day 2
  **Time allocated : 4 hours = 1 hour in class + 3 hours out of the class = Worth 300 points** 
- 1. On wednesday, attended a zoom meeting with professor Dr. Badami to discuss about issues and status of app
- 2. As per discussed with professor, I have updated new button in admin login page
+ 1. I have attend zoom meeting with sprint team.
+ - Discussion: Issues in app, status of app and status of tasks.
+ - Image: https://github.com/annie0sc/gdp-happy-health/blob/master/design-architecture/Meetings/Sprintoct20.jpg
+ 2. On wednesday, attended a zoom meeting with professor Dr. Badami to discuss about issues and status of app
+ 3. As per discussed with professor, I have updated new button in admin login page
 - https://github.com/harishThadka/happyHealth/commit/ab136430d4a20eaded1e70d6382ede6a59f30a14
- 3. Later, updated responsive design for the pages(user Home and admin Home)
+ 4. Later, updated responsive design for the pages(user Home and admin Home)
  - https://github.com/harishThadka/happyHealth/commit/3d9f7d044ca82a9a830803d8a7f987c405fe2ca9
- 4. As per discussed, remove sucessful msg in admin and user Home pages
+ 5. As per discussed, remove sucessful msg in admin and user Home pages
  - https://github.com/harishThadka/happyHealth/commit/4ebc4d19b703977d149479e9c1b58b787fba1c2e
- 5. 
  
  ## Half day 3
  **Time allocated : 4 hours = 1 hour in class + 3 hours out of the class = Worth 300 points**   
