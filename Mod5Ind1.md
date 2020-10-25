@@ -1,4 +1,4 @@
-Harish Thadka- section 01- Dr. Badami  
+Harish Thadka- Section 01- Dr. Badami  
 Group A: Design Architecture
 # Module 5: Individual 1
 
