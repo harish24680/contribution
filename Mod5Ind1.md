@@ -30,15 +30,14 @@ Date    Mode of class
 
  ## Half day 2
  **Time allocated : 4 hours = 1 hour in class + 3 hours out of the class = Worth 300 points** 
- 1. On wednesday, attended a zoom meeting with professor Dr. Badami to discuss about app modifications.
- 2. As per discussion with professor, I have modified sign up page
-- https://github.com/harishThadka/happyHealth/commit/38078d253cfb1a4f37f540d36434a3d4fb13ae37
- 3. I have scheduled zoom meeting with Design data team to discuss about models and controllers.  
- - Topic Discussion: Importing sampled data and tables to cloud database, Creating models for entities
- - Image Link: https://github.com/annie0sc/gdp-happy-health/blob/master/design-architecture/Meetings/meetingDataTeam.jpeg
- 4. As per discused, I have done some research on creating controllers then started working on controllers.
- - https://www.sitepoint.com/node-js-mvc-application/
- - https://www.c-sharpcorner.com/blogs/how-to-setup-mvc-design-pattern-in-express
+ 1. On wednesday, attended a zoom meeting with professor Dr. Badami to discuss about issues and status of app
+ 2. As per discussed with professor, I have updated new button in admin login page
+- https://github.com/harishThadka/happyHealth/commit/ab136430d4a20eaded1e70d6382ede6a59f30a14
+ 3. Later, updated responsive design for the pages(user Home and admin Home)
+ - https://github.com/harishThadka/happyHealth/commit/3d9f7d044ca82a9a830803d8a7f987c405fe2ca9
+ 4. As per discussed, remove sucessful msg in admin and user Home pages
+ - https://github.com/harishThadka/happyHealth/commit/4ebc4d19b703977d149479e9c1b58b787fba1c2e
+ 5. 
  
  ## Half day 3
  **Time allocated : 4 hours = 1 hour in class + 3 hours out of the class = Worth 300 points**   
