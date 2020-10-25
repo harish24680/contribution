@@ -41,14 +41,17 @@ Date    Mode of class
  
  ## Half day 3
  **Time allocated : 4 hours = 1 hour in class + 3 hours out of the class = Worth 300 points**   
-1. I have created user login controllers in controllers folder and committed to repo
-- https://github.com/harishThadka/happyHealth/commit/9c6df03a65225f1138cfc36190132aa7682d4470
-2. Later, created user sign up and admin login controllers and committed to repo
-- https://github.com/harishThadka/happyHealth/commit/b43017af47fb4b8ced1668351d01bfa96529169c
-- https://github.com/harishThadka/happyHealth/commit/3e4c159c715f014cb8cbede8a34d58c8226d4a77
-3. Also, created controllers for forgot password and validation pages.
-- https://github.com/harishThadka/happyHealth/commit/7499b0e1290ea479d151241a488059d4e946ee89
-4. There was unnecessary dependencis in repo so I have fixed and commited to repo
-- https://github.com/harishThadka/happyHealth/commit/380967eee43258a1e8befbf0966aeb4170fb6b57
-5. Before deployment I have fixed an issue and deployed in google cloud
-- https://github.com/harishThadka/happyHealth/commit/6a201119c9a576be481e702905156965f3a8acd15
+1. On friday, attended a zoom meeting with professor Dr. Badami to discuss about status of app
+2.  I have updated app links in readme file
+- https://github.com/harishThadka/happyHealth/commit/b30da0e9d7e29cb3ee15bfd60adcf448c8c22121
+3.  I have started working on password validation backend implementation
+- https://github.com/harishThadka/happyHealth/commit/6fa2543f5a48069ab59faeed87cf6d57134e7632
+- https://github.com/harishThadka/happyHealth/commit/6d731671912e0266a0f8169a1cd8514a9e4e92c2
+4. Added routes for reset pasword page
+- https://github.com/harishThadka/happyHealth/commit/fdeda070ecc42cf689072046dc581972b0c28077
+5. Implementing reset password functionality on backend
+- https://github.com/harishThadka/happyHealth/commit/97fe204e8df9e771c6f711f11a5027ca7059b1fe
+- https://github.com/harishThadka/happyHealth/commit/69253ba9c6ef1485e1889049ad4fd8414f0d821b
+6. Later, fixed some issues on signup page and deployed the app in google cloud
+- https://github.com/harishThadka/happyHealth/commit/2c6e6dd707c6d15e35f9116ab584c435c3f8380c
+- https://github.com/harishThadka/happyHealth/commit/fd9133964e4105ba3fc1328e13a3e1e5db1b2f9a
