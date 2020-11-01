@@ -42,17 +42,14 @@ Date    Mode of class
  - https://github.com/harishThadka/happyHealth/commit/7b8757119f30b6f8d08c3156f79d34129a5ece98
  ## Half day 3
  **Time allocated : 4 hours = 1 hour in class + 3 hours out of the class = Worth 300 points**   
-1. On friday, attended a zoom meeting with professor Dr. Badami to discuss about status of app
-2.  I have updated app links in readme file
-- https://github.com/harishThadka/happyHealth/commit/b30da0e9d7e29cb3ee15bfd60adcf448c8c22121
-3.  I have started working on password validation backend implementation
-- https://github.com/harishThadka/happyHealth/commit/6fa2543f5a48069ab59faeed87cf6d57134e7632
-- https://github.com/harishThadka/happyHealth/commit/6d731671912e0266a0f8169a1cd8514a9e4e92c2
-4. Added routes for reset pasword page
-- https://github.com/harishThadka/happyHealth/commit/fdeda070ecc42cf689072046dc581972b0c28077
-5. Implementing reset password functionality on backend
-- https://github.com/harishThadka/happyHealth/commit/97fe204e8df9e771c6f711f11a5027ca7059b1fe
-- https://github.com/harishThadka/happyHealth/commit/69253ba9c6ef1485e1889049ad4fd8414f0d821b
-6. Later, fixed some issues on signup page and deployed the app in google cloud
-- https://github.com/harishThadka/happyHealth/commit/2c6e6dd707c6d15e35f9116ab584c435c3f8380c
-- https://github.com/harishThadka/happyHealth/commit/fd9133964e4105ba3fc1328e13a3e1e5db1b2f9a
+1. On friday, attended a zoom meeting with professor Dr. Badami to discuss about new client video of the app
+2. I have remove old user home and admin home pages and also unnecessary verification.pug file from views folder
+- https://github.com/harishThadka/happyHealth/commit/e0008c9194dabc39c6756198bb096de3409f920b
+- https://github.com/harishThadka/happyHealth/commit/1009885ad67c67914b3dda804ab7a2241e672f96
+3. I have updated date picker in user step page
+- https://github.com/harishThadka/happyHealth/commit/f78897bb26e1d3901be614e9c786d7a84d2267aa
+4. I have updated UI pages and renamed index.js to router.js in router folder
+- https://github.com/harishThadka/happyHealth/commit/0abe771cbe0ec8c1dd730fca8ecd90eed9078db1
+- https://github.com/harishThadka/happyHealth/commit/b58ffff55ee3f46ff8de1f44d08198741af3575b
+5. Finally, Started working on sending otp to user mail backend implementation
+- https://github.com/harishThadka/happyHealth/commit/59127c56863260b80790cc554b9dc40ffdc88590
