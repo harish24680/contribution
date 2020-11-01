@@ -1,13 +1,13 @@
 Harish Thadka- Section 01- Dr. Badami  
 Group A: Design Architecture
-# Module 5: Individual 1
+# Module 5: Individual 2
 
 ## Attendance (list the class periods you attended)
 
 Date    Mode of class  
-10/19/2020 Zoom Session    
-10/21/2020 Zoom Session  
-10/23/2020 Zoom Session 
+10/26/2020 Zoom Session    
+10/28/2020 Zoom Session  
+10/30/2020 Zoom Session 
 
 ## Meetings&Discussions Link:
 - https://github.com/annie0sc/gdp_health_app/blob/master/Design%20Architecture/meeting.md
@@ -15,18 +15,18 @@ Date    Mode of class
  ## Half day 1
 **Time allocated : 4 hours = 1 hour in class + 3 hours out of the class = Worth 300 points**
 1. On Monday, attended zoom meeting with professor Dr. Badami to discuss about issues and status of app
-2. After discussion with professor, I have started working on app
-3. I have updated user responsive design for user login and admin login page.
-- https://github.com/harishThadka/happyHealth/commit/934bf485209bdedac9070fdb92f38f4e4d010abd
-- https://github.com/harishThadka/happyHealth/commit/d74b9e016bb6949688afc9e0386756921e1bb3ea
-4. Later, Removed node_modules folder from repo
-- https://github.com/harishThadka/happyHealth/commit/1c74e86c2346cce978463dfd4bb1baf94d6f13b8
-5. Later, updated the same reponsive design for the pages(user signup, forgot password,validation page, reset password)
-- https://github.com/harishThadka/happyHealth/commit/3a3a91691ed1a85af4d918d23a751ffe348db2ed
-- https://github.com/harishThadka/happyHealth/commit/da493cbe0155a918ef7fe2a130af434bddc47bfa
-- https://github.com/harishThadka/happyHealth/commit/b345d50f70eae8332e93fa82fc9f136203676a6b
-6. Finally, fixed some UI issues and deployed the app in google cloud
-- https://github.com/harishThadka/happyHealth/commit/d2fdf06e0954d032ae7fce62fa981134ea57e3ea
+2. After discussion with professor, UI team sent UI pages of user sleep,step count and waer intake
+3. I have assigned work to mohan to add the pages in repo:
+- https://github.com/harishThadka/happyHealth/commit/376c1e61c286d5ac568edda8cb91b8918d396c48
+- https://github.com/harishThadka/happyHealth/commit/ffb1169e8db5f174933d2e034ebe0c2670907855
+4. Later, I have added routesfor the new UI pages(user challenges, More challenges, admin Home)
+- https://github.com/harishThadka/happyHealth/commit/ed4bc35fb4807cd649cc30bd90d8de1921d2d3a3
+- https://github.com/harishThadka/happyHealth/commit/5dd7a2eb9f826cb70ed311ae1c837972521c1390
+- https://github.com/harishThadka/happyHealth/commit/bc5bcb7c4a49a67964115035a0b704bc1dea5dfc
+5. Finally, there was issues in new UI pages soI have fixed and commited to repo
+- https://github.com/harishThadka/happyHealth/commit/8b1e6176b44fdc6864591eae9979bfc7528d57b9
+- https://github.com/harishThadka/happyHealth/commit/0a300a7c1629d0eda73154c484d54a0b4afdaf3e
+- https://github.com/harishThadka/happyHealth/commit/45cad43fb085d97f311ee237fdbda30d2488dba4
 
  ## Half day 2
  **Time allocated : 4 hours = 1 hour in class + 3 hours out of the class = Worth 300 points** 
