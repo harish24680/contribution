@@ -16,7 +16,7 @@ Date    Mode of class
 **Time allocated : 4 hours = 1 hour in class + 3 hours out of the class = Worth 300 points**
 1. On Monday, attended zoom meeting with professor Dr. Badami to discuss about issues and status of app
 2. After discussion with professor, UI team sent UI pages of user sleep,step count and waer intake
-3. I have assigned work to mohan to add the pages in repo:
+3. I have assigned work to mohan to add new UI pages in repo:
 - https://github.com/harishThadka/happyHealth/commit/376c1e61c286d5ac568edda8cb91b8918d396c48
 - https://github.com/harishThadka/happyHealth/commit/ffb1169e8db5f174933d2e034ebe0c2670907855
 4. Later, I have added routesfor the new UI pages(user challenges, More challenges, admin Home)
@@ -30,17 +30,16 @@ Date    Mode of class
 
  ## Half day 2
  **Time allocated : 4 hours = 1 hour in class + 3 hours out of the class = Worth 300 points** 
- 1. I have attend zoom meeting with sprint team.
- - Discussion: Issues in app, status of app and status of tasks.
- - Image: https://github.com/annie0sc/gdp-happy-health/blob/master/design-architecture/Meetings/Sprintoct20.jpg
- 2. On wednesday, attended a zoom meeting with professor Dr. Badami to discuss about issues and status of app
- 3. As per discussed with professor, I have updated new button in admin login page
-- https://github.com/harishThadka/happyHealth/commit/ab136430d4a20eaded1e70d6382ede6a59f30a14
- 4. Later, updated responsive design for the pages(user Home and admin Home)
- - https://github.com/harishThadka/happyHealth/commit/3d9f7d044ca82a9a830803d8a7f987c405fe2ca9
- 5. As per discussed, remove sucessful msg in admin and user Home pages
- - https://github.com/harishThadka/happyHealth/commit/4ebc4d19b703977d149479e9c1b58b787fba1c2e
- 
+ 1. On wednesday, attended a zoom meeting with professor Dr.Badami to discuss about new UI pages of the app.
+ 2. After discussion with professor, I have new user home UI Page for app
+ - https://github.com/harishThadka/happyHealth/commit/66825e6222b0a4e661141fd898475b1f64fac4bd
+ 3. Later, added routes for UI pages (user step, user sleep, hydration levels)
+ - https://github.com/harishThadka/happyHealth/commit/1745083263e27d7c780caba4ede6cef8a626d481
+ - https://github.com/harishThadka/happyHealth/commit/1cf6a7e2daf8484d5c16e0acd6780b36d15c8746
+ 4. After adding routes, I have updated backend functionality on userHome and adimnHome pages
+ - https://github.com/harishThadka/happyHealth/commit/d9635702cb6e17953968b648dc1a61222ecf0152
+ 5. Finally, I have fixed UI page issues
+ - https://github.com/harishThadka/happyHealth/commit/7b8757119f30b6f8d08c3156f79d34129a5ece98
  ## Half day 3
  **Time allocated : 4 hours = 1 hour in class + 3 hours out of the class = Worth 300 points**   
 1. On friday, attended a zoom meeting with professor Dr. Badami to discuss about status of app
