@@ -14,25 +14,25 @@ Date    Mode of class
 
  ## Half day 1
 **Time allocated : 4 hours = 1 hour in class + 3 hours out of the class = Worth 300 points**
-1. On Monday, attended zoom meeting with professor Dr. Badami to discuss about issues and status of app
-2. After discussion with professor, UI team sent UI pages of user challenges, More challenges, sleep, step count and waer intake
-3. I have assigned work to mohan to add new UI pages in repo:
+1. On Monday, attended a zoom meeting with professor Dr. Badami to discuss about issues and status of app
+2. After discussion with professor, UI team sent UI pages of user challenges, More challenges, sleep, step count and water intake
+3. I have assigned work to Mohan to add new UI pages in repo:
 - https://github.com/harishThadka/happyHealth/commit/376c1e61c286d5ac568edda8cb91b8918d396c48
 - https://github.com/harishThadka/happyHealth/commit/ffb1169e8db5f174933d2e034ebe0c2670907855
 - https://github.com/harishThadka/happyHealth/commit/73e693bc64055f48f3007c34ba669e439dd1967c
-4. Later, I have added routesfor the new UI pages(user challenges, More challenges, admin Home)
+4. Later, I have added routes for the new UI pages(user challenges, More challenges, admin Home)
 - https://github.com/harishThadka/happyHealth/commit/ed4bc35fb4807cd649cc30bd90d8de1921d2d3a3
 - https://github.com/harishThadka/happyHealth/commit/5dd7a2eb9f826cb70ed311ae1c837972521c1390
 - https://github.com/harishThadka/happyHealth/commit/bc5bcb7c4a49a67964115035a0b704bc1dea5dfc
-5. Finally, there was issues in new UI pages soI have fixed and commited to repo
+5. Finally, there were issues in new UI pages soI have fixed and committed to repo
 - https://github.com/harishThadka/happyHealth/commit/8b1e6176b44fdc6864591eae9979bfc7528d57b9
 - https://github.com/harishThadka/happyHealth/commit/0a300a7c1629d0eda73154c484d54a0b4afdaf3e
 - https://github.com/harishThadka/happyHealth/commit/45cad43fb085d97f311ee237fdbda30d2488dba4
 
  ## Half day 2
  **Time allocated : 4 hours = 1 hour in class + 3 hours out of the class = Worth 300 points** 
- 1. On wednesday, attended a zoom meeting with professor Dr.Badami to discuss about new UI pages of the app.
- 2. After discussion with professor, I have new user home UI Page for app
+ 1. On Wednesday, attended a zoom meeting with professor Dr.Badami to discuss about new UI pages of the app.
+ 2. After discussion with professor, I have added new user home UI Page for app
  - https://github.com/harishThadka/happyHealth/commit/66825e6222b0a4e661141fd898475b1f64fac4bd
  3. Later, added routes for UI pages (user step, user sleep, hydration levels)
  - https://github.com/harishThadka/happyHealth/commit/1745083263e27d7c780caba4ede6cef8a626d481
@@ -43,8 +43,8 @@ Date    Mode of class
  - https://github.com/harishThadka/happyHealth/commit/7b8757119f30b6f8d08c3156f79d34129a5ece98
  ## Half day 3
  **Time allocated : 4 hours = 1 hour in class + 3 hours out of the class = Worth 300 points**   
-1. On friday, attended a zoom meeting with professor Dr. Badami to discuss about new client video of the app
-2. I have remove old user home and admin home pages and also unnecessary verification.pug file from views folder
+1. On Friday, attended a zoom meeting with professor Dr. Badami to discuss about new client video of the app
+2. I have removed old user home and admin home pages and also unnecessary verification.pug file from views folder
 - https://github.com/harishThadka/happyHealth/commit/e0008c9194dabc39c6756198bb096de3409f920b
 - https://github.com/harishThadka/happyHealth/commit/1009885ad67c67914b3dda804ab7a2241e672f96
 3. I have updated date picker in user step page
