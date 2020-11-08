@@ -30,20 +30,19 @@ Date    Mode of class
 
  ## Half day 2
  **Time allocated : 4 hours = 1 hour in class + 3 hours out of the class = Worth 300 points** 
- 1. On Wednesday, attended a zoom meeting with professor Dr.Badami to discuss about new UI pages of the app.
- 2. After discussion with professor, I have added new user home UI Page for app
- - https://github.com/harishThadka/happyHealth/commit/66825e6222b0a4e661141fd898475b1f64fac4bd
- 3. Later, added routes for UI pages (user step, user sleep, hydration levels)
- - https://github.com/harishThadka/happyHealth/commit/1745083263e27d7c780caba4ede6cef8a626d481
- - https://github.com/harishThadka/happyHealth/commit/1cf6a7e2daf8484d5c16e0acd6780b36d15c8746
- 4. After adding routes, I have updated backend functionality on userHome and adimnHome pages
- - https://github.com/harishThadka/happyHealth/commit/d9635702cb6e17953968b648dc1a61222ecf0152
- 5. Finally, I have fixed UI page issues
- - https://github.com/harishThadka/happyHealth/commit/7b8757119f30b6f8d08c3156f79d34129a5ece98
+ 1. On Wednesday, attended a zoom meeting with professor Dr.Badami to discuss about modifications of the app.
+ 2.  I have started working on user step page
+ - https://github.com/harishThadka/happyHealth/commit/be4ec5bd3962890f286494b209114095e958a633
+ 3. Later,  I have added navigation bar in user home and user sleep pages
+ - https://github.com/harishThadka/happyHealth/commit/a285d6d291829256e8d7268ab3f6564d88a7f166
+ - https://github.com/harishThadka/happyHealth/commit/aa9f9a0323f2bb96a4f493c64c8caf56e9ac3cc6
+ 4. I have added title in navigation bar in user Home page
+ - https://github.com/harishThadka/happyHealth/commit/c4ab537d6b60100391b1c9b1b953b0750d435f0d
+ 
  ## Half day 3
  **Time allocated : 4 hours = 1 hour in class + 3 hours out of the class = Worth 300 points**   
-1. On Friday, attended a zoom meeting with professor Dr. Badami to discuss about new client video of the app
-2. I have removed old user home and admin home pages and also unnecessary verification.pug file from views folder
+1. On Friday, attended a zoom meeting and I have presented new implementations of the app with professor Dr. Badami.
+2. After discussion with professor, I have fixed label issue rgu76878y968
 - https://github.com/harishThadka/happyHealth/commit/e0008c9194dabc39c6756198bb096de3409f920b
 - https://github.com/harishThadka/happyHealth/commit/1009885ad67c67914b3dda804ab7a2241e672f96
 3. I have updated date picker in user step page
