@@ -1,14 +1,14 @@
 
 Harish Thadka- Section 01- Dr. Badami  
 Group A: Design Architecture
-# Module 5: Individual 2
+# Module 6: Individual 1
 
 ## Attendance (list the class periods you attended)
 
 Date    Mode of class  
-10/26/2020 Zoom Session    
-10/28/2020 Zoom Session  
-10/30/2020 Zoom Session 
+11/02/2020 Zoom Session    
+11/04/2020 Zoom Session  
+11/06/2020 Zoom Session 
 
 ## Meetings&Discussions Link:
 - https://github.com/annie0sc/gdp_health_app/blob/master/Design%20Architecture/meeting.md
