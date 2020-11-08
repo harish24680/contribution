@@ -42,13 +42,16 @@ Date    Mode of class
  ## Half day 3
  **Time allocated : 4 hours = 1 hour in class + 3 hours out of the class = Worth 300 points**   
 1. On Friday, attended a zoom meeting and I have presented new implementations of the app with professor Dr. Badami.
-2. After discussion with professor, I have fixed label issue rgu76878y968
-- https://github.com/harishThadka/happyHealth/commit/e0008c9194dabc39c6756198bb096de3409f920b
-- https://github.com/harishThadka/happyHealth/commit/1009885ad67c67914b3dda804ab7a2241e672f96
-3. I have updated date picker in user step page
-- https://github.com/harishThadka/happyHealth/commit/f78897bb26e1d3901be614e9c786d7a84d2267aa
-4. I have updated UI pages and renamed index.js to router.js in router folder
-- https://github.com/harishThadka/happyHealth/commit/0abe771cbe0ec8c1dd730fca8ecd90eed9078db1
-- https://github.com/harishThadka/happyHealth/commit/b58ffff55ee3f46ff8de1f44d08198741af3575b
-5. Finally, Started working on sending otp to user mail backend implementation
-- https://github.com/harishThadka/happyHealth/commit/59127c56863260b80790cc554b9dc40ffdc88590
+2. As per discussion with professor, I have fixed label issue in user step page and changed claorie calculator to meditation time
+- https://github.com/harishThadka/happyHealth/commit/f82935867ee0ba797ae15807da34c409a552ce2a
+- https://github.com/harishThadka/happyHealth/commit/381cea10bfc6a1f4da1cd4ce601641f43391d2ff
+3. I have added navigation bar in admin home pages
+- https://github.com/harishThadka/happyHealth/commit/dbc271415e6e4278bf54eaf375f4caf56bf48843
+4. Later , I have started to implement backend for user sleep page
+- https://github.com/harishThadka/happyHealth/commit/1663bc74a4bce2cb14157b8e3e3d4f6563dc7021
+- https://github.com/harishThadka/happyHealth/commit/8a2990b825289d5f1f5eae2e738e98ee878ebed7
+- https://github.com/harishThadka/happyHealth/commit/cd1fb2faee8b6e7da6a57bd18a6ab7354a635947
+5. Finally, I have implemented backend for user hydration page and fixed some issues
+- https://github.com/harishThadka/happyHealth/commit/0eb942ce59fc00cccdfaa8c7d61d28590bd3cd8d
+- https://github.com/harishThadka/happyHealth/commit/85411cd204e37ac06db6a72c4db64ca1f5ac8b6a
+- https://github.com/harishThadka/happyHealth/commit/d3b21bd6d625713393d00dba3d68376562da94d9
