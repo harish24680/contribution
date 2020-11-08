@@ -16,19 +16,17 @@ Date    Mode of class
  ## Half day 1
 **Time allocated : 4 hours = 1 hour in class + 3 hours out of the class = Worth 300 points**
 1. On Monday, attended a zoom meeting with professor Dr. Badami to discuss about issues and status of app
-2. After discussion with professor, UI team sent UI pages of user challenges, More challenges, sleep, step count and water intake
-3. I have assigned work to Mohan to add new UI pages in repo:
-- https://github.com/harishThadka/happyHealth/commit/376c1e61c286d5ac568edda8cb91b8918d396c48
-- https://github.com/harishThadka/happyHealth/commit/ffb1169e8db5f174933d2e034ebe0c2670907855
-- https://github.com/harishThadka/happyHealth/commit/73e693bc64055f48f3007c34ba669e439dd1967c
-4. Later, I have added routes for the new UI pages(user challenges, More challenges, admin Home)
-- https://github.com/harishThadka/happyHealth/commit/ed4bc35fb4807cd649cc30bd90d8de1921d2d3a3
-- https://github.com/harishThadka/happyHealth/commit/5dd7a2eb9f826cb70ed311ae1c837972521c1390
-- https://github.com/harishThadka/happyHealth/commit/bc5bcb7c4a49a67964115035a0b704bc1dea5dfc
-5. Finally, there were issues in new UI pages soI have fixed and committed to repo
-- https://github.com/harishThadka/happyHealth/commit/8b1e6176b44fdc6864591eae9979bfc7528d57b9
-- https://github.com/harishThadka/happyHealth/commit/0a300a7c1629d0eda73154c484d54a0b4afdaf3e
-- https://github.com/harishThadka/happyHealth/commit/45cad43fb085d97f311ee237fdbda30d2488dba4
+2. I'm trying to implement mail functionality in app
+- https://github.com/harishThadka/happyHealth/commit/e28f98fa291f6b55edaed1cfea3d79ddca102ae6
+3. I have been implementing backend for user step page
+- https://github.com/harishThadka/happyHealth/commit/72c614eefd6e452308b0259d9ee32ef5e7cd79b8
+- https://github.com/harishThadka/happyHealth/commit/cbe650a2ec22767a30708f2e4eaf8ccfb2700624
+- https://github.com/harishThadka/happyHealth/commit/77db4c308252aebc1ffbe71539ce5b68907d84fc
+4. Later,  I have worked on user step page in connecting to database
+- https://github.com/harishThadka/happyHealth/commit/ba699d990cf7f49b5bc4a02beb1b7c8ff4074cd3
+- https://github.com/harishThadka/happyHealth/commit/a5a2f90b18369c8923b98abcd002a09294e19661
+5. Lastly, I have added navigation bar in admin Home and user sleep pages
+- https://github.com/harishThadka/happyHealth/commit/5f2f5cdfe651f93351e5ee5574d93237b1865d20
 
  ## Half day 2
  **Time allocated : 4 hours = 1 hour in class + 3 hours out of the class = Worth 300 points** 
