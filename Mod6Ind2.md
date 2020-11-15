@@ -33,6 +33,8 @@ Date    Mode of class
  
  3. As per my assigned task, I have designed new admin home page
  
+ 4. And also, made user responsive design on both pages.
+ 
  
  ## Half day 3
  **Time allocated : 4 hours = 1 hour in class + 3 hours out of the class = Worth 300 points**   
