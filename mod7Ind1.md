@@ -21,16 +21,17 @@ Date    Mode of class
 3. Later, worked on delete button functionality on group management page
 - https://github.com/harishThadka/happyHealth/commit/06b1f4713a613132f5b1409a4ad3bd399aeeb29f
 4. After that, worked on edit profile page. Created view and controller for edit profile page.
+- https://github.com/harishThadka/happyHealth/commit/aea01c94a65a5350952de94ee8acf4cd3c07c5f6
 - https://github.com/harishThadka/happyHealth/commit/4ab7a1ddce7f63e727804ba67f1446a43fc2c222
+- https://github.com/harishThadka/happyHealth/commit/e9c18a855b4af4bdb0a4bbf9fc86e7efd3b17d43
+5. Completed edit functionality and changed style buttons in grouop management
+- https://github.com/harishThadka/happyHealth/commit/abbe03c21c4f6518e24c276e4bc6c9d055fcc032
+- https://github.com/harishThadka/happyHealth/commit/cf792a97f4a078d7c575b5a0c50e418b828a4410
 
  ## Half day 2
  **Time allocated : 4 hours = 1 hour in class + 3 hours out of the class = Worth 300 points** 
  1. On Wednesday, attended class in zoom meeting. Dr. Badami divided team members and assigned tasks
- 2. As per my assigned task, I have designed user challegement page.
- 
- 3. As per my assigned task, I have designed new admin home page
- 
- 4. And also, made user responsive design on both pages.
+ 2.
  
  
  ## Half day 3
