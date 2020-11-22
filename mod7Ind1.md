@@ -47,4 +47,16 @@ Date    Mode of class
  ## Half day 3
  **Time allocated : 4 hours = 1 hour in class + 3 hours out of the class = Worth 300 points**   
 1. On Friday, attended a zoom meeting with professor Dr. Badami to discuss about issues and status of app
-2. 
+2. Later, I have started working on group memebers page. Created controller, view and router for group members page
+- https://github.com/harishThadka/happyHealth/commit/4b2a51d6302e2f576152b7ce013e9f36e3d48086
+- https://github.com/harishThadka/happyHealth/commit/236b1d6a4fa6992f19f4b7c7b656a95c96505f4e
+- https://github.com/harishThadka/happyHealth/commit/61c31adba1f9a78ed37680be3394328fa61142db
+3. I have fixed some issues in group members view
+- https://github.com/harishThadka/happyHealth/commit/dfb321645c9b77a547a4b8a18f8a8bf3b041b250
+4. I have started to work on add user functionality in group members page.
+- https://github.com/harishThadka/happyHealth/commit/6ecc48ab374905e82951bdd935d9d1a1dd3af6de
+- https://github.com/harishThadka/happyHealth/commit/ddf4f2731db6c45b2d8d9363727a00dec45da512
+- https://github.com/harishThadka/happyHealth/commit/0543dd67fce3b2c76be96d49d6105cf8e158999d
+5. Finally, added user functionality and fixed issues in grop controller
+- https://github.com/harishThadka/happyHealth/commit/21136535b16bdb6ac055993bb3b7a242489d8546
+- https://github.com/harishThadka/happyHealth/commit/1564ce3f24ff637f19cbdeee72b3e5a6acd14622
