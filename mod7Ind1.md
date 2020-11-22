@@ -27,23 +27,24 @@ Date    Mode of class
 5. Completed edit functionality and changed style buttons in grouop management
 - https://github.com/harishThadka/happyHealth/commit/abbe03c21c4f6518e24c276e4bc6c9d055fcc032
 - https://github.com/harishThadka/happyHealth/commit/cf792a97f4a078d7c575b5a0c50e418b828a4410
+- https://github.com/harishThadka/happyHealth/commit/81247ee3908e968e1a9f8575b36b0568b6f0056c
 
  ## Half day 2
  **Time allocated : 4 hours = 1 hour in class + 3 hours out of the class = Worth 300 points** 
- 1. On Wednesday, attended class in zoom meeting. Dr. Badami divided team members and assigned tasks
- 2.
- 
- 
+ 1. On Wednesday, attended class in zoom meeting Dr. Badami. I have presented about my tasks.
+ 2. As per discuessed with professor, Changed passwoed type in edit profile page
+ - https://github.com/harishThadka/happyHealth/commit/5dd4564d01da659dfbaa4c66b5c3d9555efcffc3
+ 3. Later, worked on style and functionalities of group management page
+ - https://github.com/harishThadka/happyHealth/commit/f6c271a01d421410c9d265aa8b778e9e21269755
+ 4. Worked on edit group functionality in group management page. Added view and controller for edit group page.
+ - https://github.com/harishThadka/happyHealth/commit/6c37c493489406883f7736061897ea926373009c
+ - https://github.com/harishThadka/happyHealth/commit/e3f8ea313d787a5f9750deb8a2622b6b276f471c
+ 5. Worked on Updated funtionality in edit group page.
+ - https://github.com/harishThadka/happyHealth/commit/e3f8ea313d787a5f9750deb8a2622b6b276f471c
+ 6. Later, added setup instructions of app in readme file
+ - https://github.com/harishThadka/happyHealth/commit/f086544ee6329453bce7d1d934602f6600217850
+ - https://github.com/harishThadka/happyHealth/commit/7623bf78e58756b94aa3ee46dc4b0ae18d86437b
  ## Half day 3
  **Time allocated : 4 hours = 1 hour in class + 3 hours out of the class = Worth 300 points**   
-1. On Friday, attended a zoom meeting and I have presented my new UI pages such as user challengement and new admin home.
-2. Later, I have started to work on backened implementation on user challengement
-- https://github.com/harishThadka/happyHealth/commit/3a47a676ab714017363ba2df85e108545b724e27
-3. I have added new admin home page and fixed some issue in the page
-- https://github.com/harishThadka/happyHealth/commit/49590eeaae45ddfa99028e3ce11ab388eca6bd8a
-- https://github.com/harishThadka/happyHealth/commit/1be593825cc13e55e85792046324f178e8185651
-4. Added backend functionalities on user challengement page
-- https://github.com/harishThadka/happyHealth/commit/a663debce6af53a6c14a7cc8b70d03442322bfe5
-- https://github.com/harishThadka/happyHealth/commit/0aef84ed93059e3ba8ee67697b5a3aabceec0876
-5. Finally added delete user functionality on user challengement page
-- https://github.com/harishThadka/happyHealth/commit/aa20b436cd48e254ee472a1130f5978831a11a84
+1. On Friday, attended a zoom meeting with professor Dr. Badami to discuss about issues and status of app
+2. 
